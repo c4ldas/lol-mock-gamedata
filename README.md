@@ -16,4 +16,4 @@ The primary purpose of uploading this file is to support mock requests for a wid
 
 # How to access
 
-In order to access the .json file, do a GET request to `https://raw.githubusercontent.com/c4ldas/lol-mock-gamedata/main/allgamedata.json`. As the repository is public, no authentication is required (unless Github changes that in the future).
+In order to access the `.json` file, do a GET request to `https://raw.githubusercontent.com/c4ldas/lol-mock-gamedata/main/allgamedata.json`. As the repository is public, no authentication is required (unless Github changes that in the future).

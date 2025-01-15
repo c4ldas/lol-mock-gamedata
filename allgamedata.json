@@ -1,0 +1,2162 @@
+{
+  "activePlayer": {
+    "abilities": {
+      "E": {
+        "abilityLevel": 5,
+        "displayName": "Nimbus Strike",
+        "id": "MonkeyKingNimbus",
+        "rawDescription": "GeneratedTip_Spell_MonkeyKingNimbus_Description",
+        "rawDisplayName": "GeneratedTip_Spell_MonkeyKingNimbus_DisplayName"
+      },
+      "Passive": {
+        "displayName": "Stone Skin",
+        "id": "MonkeyKingPassive",
+        "rawDescription": "GeneratedTip_Passive_MonkeyKingPassive_Description",
+        "rawDisplayName": "GeneratedTip_Passive_MonkeyKingPassive_DisplayName"
+      },
+      "Q": {
+        "abilityLevel": 5,
+        "displayName": "Crushing Blow",
+        "id": "MonkeyKingDoubleAttack",
+        "rawDescription": "GeneratedTip_Spell_MonkeyKingDoubleAttack_Description",
+        "rawDisplayName": "GeneratedTip_Spell_MonkeyKingDoubleAttack_DisplayName"
+      },
+      "R": {
+        "abilityLevel": 3,
+        "displayName": "Cyclone",
+        "id": "MonkeyKingSpinToWin",
+        "rawDescription": "GeneratedTip_Spell_MonkeyKingSpinToWin_Description",
+        "rawDisplayName": "GeneratedTip_Spell_MonkeyKingSpinToWin_DisplayName"
+      },
+      "W": {
+        "abilityLevel": 5,
+        "displayName": "Warrior Trickster",
+        "id": "MonkeyKingDecoy",
+        "rawDescription": "GeneratedTip_Spell_MonkeyKingDecoy_Description",
+        "rawDisplayName": "GeneratedTip_Spell_MonkeyKingDecoy_DisplayName"
+      }
+    },
+    "championStats": {
+      "abilityHaste": 80.0,
+      "abilityPower": 0.0,
+      "armor": 139.90000915527345,
+      "armorPenetrationFlat": 0.0,
+      "armorPenetrationPercent": 1.0,
+      "attackDamage": 356.2769775390625,
+      "attackRange": 175.0,
+      "attackSpeed": 1.2427200078964234,
+      "bonusArmorPenetrationPercent": 1.0,
+      "bonusMagicPenetrationPercent": 1.0,
+      "critChance": 0.0,
+      "critDamage": 175.0,
+      "currentHealth": 2701.760009765625,
+      "healShieldPower": 0.0,
+      "healthRegenRate": 5.446100234985352,
+      "lifeSteal": 0.0,
+      "magicLethality": 0.0,
+      "magicPenetrationFlat": 0.0,
+      "magicPenetrationPercent": 1.0,
+      "magicResist": 62.85000228881836,
+      "maxHealth": 3623.000244140625,
+      "moveSpeed": 452.60003662109377,
+      "omnivamp": 0.0,
+      "physicalLethality": 18.0,
+      "physicalVamp": 0.0,
+      "resourceMax": 1405.0001220703126,
+      "resourceRegenRate": 4.320000171661377,
+      "resourceType": "MANA",
+      "resourceValue": 1234.1212158203126,
+      "spellVamp": 0.0,
+      "tenacity": 5.0
+    },
+    "currentGold": 4183.02490234375,
+    "fullRunes": {
+      "generalRunes": [
+        {
+          "displayName": "Conqueror",
+          "id": 8010,
+          "rawDescription": "perk_tooltip_Conqueror",
+          "rawDisplayName": "perk_displayname_Conqueror"
+        },
+        {
+          "displayName": "Triumph",
+          "id": 9111,
+          "rawDescription": "perk_tooltip_9111",
+          "rawDisplayName": "perk_displayname_9111"
+        },
+        {
+          "displayName": "Legend: Alacrity",
+          "id": 9104,
+          "rawDescription": "perk_tooltip_9104",
+          "rawDisplayName": "perk_displayname_9104"
+        },
+        {
+          "displayName": "Coup de Grace",
+          "id": 8014,
+          "rawDescription": "perk_tooltip_CoupDeGrace",
+          "rawDisplayName": "perk_displayname_CoupDeGrace"
+        },
+        {
+          "displayName": "Sudden Impact",
+          "id": 8143,
+          "rawDescription": "perk_tooltip_SuddenImpact",
+          "rawDisplayName": "perk_displayname_SuddenImpact"
+        },
+        {
+          "displayName": "Ultimate Hunter",
+          "id": 8106,
+          "rawDescription": "perk_tooltip_UltimateHunter",
+          "rawDisplayName": "perk_displayname_UltimateHunter"
+        }
+      ],
+      "keystone": {
+        "displayName": "Conqueror",
+        "id": 8010,
+        "rawDescription": "perk_tooltip_Conqueror",
+        "rawDisplayName": "perk_displayname_Conqueror"
+      },
+      "primaryRuneTree": {
+        "displayName": "Precision",
+        "id": 8000,
+        "rawDescription": "perkstyle_tooltip_7201",
+        "rawDisplayName": "perkstyle_displayname_7201"
+      },
+      "secondaryRuneTree": {
+        "displayName": "Domination",
+        "id": 8100,
+        "rawDescription": "perkstyle_tooltip_7200",
+        "rawDisplayName": "perkstyle_displayname_7200"
+      },
+      "statRunes": [
+        {
+          "id": 5005,
+          "rawDescription": "perk_tooltip_StatModAttackSpeed"
+        },
+        {
+          "id": 5008,
+          "rawDescription": "perk_tooltip_StatModAdaptive"
+        },
+        {
+          "id": 5001,
+          "rawDescription": "perk_tooltip_StatModHealthScaling"
+        }
+      ]
+    },
+    "level": 18,
+    "summonerName": "c4ldas#EU10",
+    "teamRelativeColors": true
+  },
+  "allPlayers": [
+    {
+      "championName": "Wukong",
+      "isBot": false,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Sundered Sky",
+          "itemID": 6610,
+          "price": 850,
+          "rawDescription": "GeneratedTip_Item_6610_Description",
+          "rawDisplayName": "Item_6610_Name",
+          "slot": 0
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Profane Hydra",
+          "itemID": 6698,
+          "price": 763,
+          "rawDescription": "GeneratedTip_Item_6698_Description",
+          "rawDisplayName": "Item_6698_Name",
+          "slot": 1
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Refillable Potion",
+          "itemID": 2031,
+          "price": 150,
+          "rawDescription": "GeneratedTip_Item_2031_Description",
+          "rawDisplayName": "Item_2031_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Plated Steelcaps",
+          "itemID": 3047,
+          "price": 500,
+          "rawDescription": "GeneratedTip_Item_3047_Description",
+          "rawDisplayName": "Item_3047_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Black Cleaver",
+          "itemID": 3071,
+          "price": 400,
+          "rawDescription": "GeneratedTip_Item_3071_Description",
+          "rawDisplayName": "Item_3071_Name",
+          "slot": 4
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Spear of Shojin",
+          "itemID": 3161,
+          "price": 325,
+          "rawDescription": "GeneratedTip_Item_3161_Description",
+          "rawDisplayName": "Item_3161_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Stealth Ward",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 18,
+      "position": "",
+      "rawChampionName": "game_character_displayname_MonkeyKing",
+      "rawSkinName": "game_character_skin_displayname_MonkeyKing_1",
+      "respawnTimer": 0.0,
+      "runes": {
+        "keystone": {
+          "displayName": "Conqueror",
+          "id": 8010,
+          "rawDescription": "perk_tooltip_Conqueror",
+          "rawDisplayName": "perk_displayname_Conqueror"
+        },
+        "primaryRuneTree": {
+          "displayName": "Precision",
+          "id": 8000,
+          "rawDescription": "perkstyle_tooltip_7201",
+          "rawDisplayName": "perkstyle_displayname_7201"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Domination",
+          "id": 8100,
+          "rawDescription": "perkstyle_tooltip_7200",
+          "rawDisplayName": "perkstyle_displayname_7200"
+        }
+      },
+      "scores": {
+        "assists": 4,
+        "creepScore": 270,
+        "deaths": 1,
+        "kills": 16,
+        "wardScore": 40.61534118652344
+      },
+      "skinID": 1,
+      "skinName": "Volcanic Wukong",
+      "summonerName": "c4ldas",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Flash",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Primal Smite",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerSmiteAvatarOffensive_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSmiteAvatarOffensive_DisplayName"
+        }
+      },
+      "team": "ORDER"
+    },
+    {
+      "championName": "Vladimir",
+      "isBot": true,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Dark Seal",
+          "itemID": 1082,
+          "price": 350,
+          "rawDescription": "GeneratedTip_Item_1082_Description",
+          "rawDisplayName": "Item_1082_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Ionian Boots of Lucidity",
+          "itemID": 3158,
+          "price": 350,
+          "rawDescription": "GeneratedTip_Item_3158_Description",
+          "rawDisplayName": "Item_3158_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Liandry's Torment",
+          "itemID": 6653,
+          "price": 850,
+          "rawDescription": "GeneratedTip_Item_6653_Description",
+          "rawDisplayName": "Item_6653_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Aether Wisp",
+          "itemID": 3113,
+          "price": 450,
+          "rawDescription": "GeneratedTip_Item_3113_Description",
+          "rawDisplayName": "Item_3113_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Kindlegem",
+          "itemID": 3067,
+          "price": 150,
+          "rawDescription": "GeneratedTip_Item_3067_Description",
+          "rawDisplayName": "Item_3067_Name",
+          "slot": 4
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Stealth Ward",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 14,
+      "position": "",
+      "rawChampionName": "game_character_displayname_Vladimir",
+      "respawnTimer": 0.0,
+      "runes": {
+        "keystone": {
+          "displayName": "Arcane Comet",
+          "id": 8229,
+          "rawDescription": "perk_tooltip_ArcaneComet",
+          "rawDisplayName": "perk_displayname_ArcaneComet"
+        },
+        "primaryRuneTree": {
+          "displayName": "Sorcery",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Domination",
+          "id": 8100,
+          "rawDescription": "perkstyle_tooltip_7200",
+          "rawDisplayName": "perkstyle_displayname_7200"
+        }
+      },
+      "scores": {
+        "assists": 6,
+        "creepScore": 50,
+        "deaths": 2,
+        "kills": 1,
+        "wardScore": 0.0
+      },
+      "skinID": 0,
+      "summonerName": "Vladimir",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Ghost",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHaste_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHaste_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Heal",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHeal_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHeal_DisplayName"
+        }
+      },
+      "team": "ORDER"
+    },
+    {
+      "championName": "Renekton",
+      "isBot": true,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Doran's Blade",
+          "itemID": 1055,
+          "price": 450,
+          "rawDescription": "GeneratedTip_Item_1055_Description",
+          "rawDisplayName": "Item_1055_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Black Cleaver",
+          "itemID": 3071,
+          "price": 400,
+          "rawDescription": "GeneratedTip_Item_3071_Description",
+          "rawDisplayName": "Item_3071_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Eclipse",
+          "itemID": 6692,
+          "price": 475,
+          "rawDescription": "GeneratedTip_Item_6692_Description",
+          "rawDisplayName": "Item_6692_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Pickaxe",
+          "itemID": 1037,
+          "price": 875,
+          "rawDescription": "GeneratedTip_Item_1037_Description",
+          "rawDisplayName": "Item_1037_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Plated Steelcaps",
+          "itemID": 3047,
+          "price": 500,
+          "rawDescription": "GeneratedTip_Item_3047_Description",
+          "rawDisplayName": "Item_3047_Name",
+          "slot": 4
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Stealth Ward",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 14,
+      "position": "",
+      "rawChampionName": "game_character_displayname_Renekton",
+      "respawnTimer": 0.0,
+      "runes": {
+        "keystone": {
+          "displayName": "Grasp of the Undying",
+          "id": 8437,
+          "rawDescription": "perk_tooltip_GraspOfTheUndying",
+          "rawDisplayName": "perk_displayname_GraspOfTheUndying"
+        },
+        "primaryRuneTree": {
+          "displayName": "Resolve",
+          "id": 8400,
+          "rawDescription": "perkstyle_tooltip_7204",
+          "rawDisplayName": "perkstyle_displayname_7204"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Sorcery",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
+        }
+      },
+      "scores": {
+        "assists": 4,
+        "creepScore": 80,
+        "deaths": 7,
+        "kills": 3,
+        "wardScore": 0.0
+      },
+      "skinID": 0,
+      "summonerName": "Renekton",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Ghost",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHaste_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHaste_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Heal",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHeal_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHeal_DisplayName"
+        }
+      },
+      "team": "ORDER"
+    },
+    {
+      "championName": "Ezreal",
+      "isBot": true,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Muramana",
+          "itemID": 3042,
+          "price": 3000,
+          "rawDescription": "GeneratedTip_Item_3042_Description",
+          "rawDisplayName": "Item_3042_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Ionian Boots of Lucidity",
+          "itemID": 3158,
+          "price": 350,
+          "rawDescription": "GeneratedTip_Item_3158_Description",
+          "rawDisplayName": "Item_3158_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Trinity Force",
+          "itemID": 3078,
+          "price": 183,
+          "rawDescription": "GeneratedTip_Item_3078_Description",
+          "rawDisplayName": "Item_3078_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "The Brutalizer",
+          "itemID": 2020,
+          "price": 212,
+          "rawDescription": "GeneratedTip_Item_2020_Description",
+          "rawDisplayName": "Item_2020_Name",
+          "slot": 3
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Stealth Ward",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 14,
+      "position": "",
+      "rawChampionName": "game_character_displayname_Ezreal",
+      "respawnTimer": 0.0,
+      "runes": {
+        "keystone": {
+          "displayName": "Arcane Comet",
+          "id": 8229,
+          "rawDescription": "perk_tooltip_ArcaneComet",
+          "rawDisplayName": "perk_displayname_ArcaneComet"
+        },
+        "primaryRuneTree": {
+          "displayName": "Sorcery",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Domination",
+          "id": 8100,
+          "rawDescription": "perkstyle_tooltip_7200",
+          "rawDisplayName": "perkstyle_displayname_7200"
+        }
+      },
+      "scores": {
+        "assists": 9,
+        "creepScore": 70,
+        "deaths": 5,
+        "kills": 4,
+        "wardScore": 0.0
+      },
+      "skinID": 0,
+      "summonerName": "Ezreal",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Ghost",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHaste_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHaste_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Heal",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHeal_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHeal_DisplayName"
+        }
+      },
+      "team": "ORDER"
+    },
+    {
+      "championName": "Morgana",
+      "isBot": true,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Needlessly Large Rod",
+          "itemID": 1058,
+          "price": 1250,
+          "rawDescription": "GeneratedTip_Item_1058_Description",
+          "rawDisplayName": "Item_1058_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Luden's Companion",
+          "itemID": 6655,
+          "price": 600,
+          "rawDescription": "GeneratedTip_Item_6655_Description",
+          "rawDisplayName": "Item_6655_Name",
+          "slot": 1
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Zhonya's Hourglass",
+          "itemID": 3157,
+          "price": 400,
+          "rawDescription": "GeneratedTip_Item_3157_Description",
+          "rawDisplayName": "Item_3157_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Amplifying Tome",
+          "itemID": 1052,
+          "price": 400,
+          "rawDescription": "GeneratedTip_Item_1052_Description",
+          "rawDisplayName": "Item_1052_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Sorcerer's Shoes",
+          "itemID": 3020,
+          "price": 800,
+          "rawDescription": "GeneratedTip_Item_3020_Description",
+          "rawDisplayName": "Item_3020_Name",
+          "slot": 4
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Liandry's Torment",
+          "itemID": 6653,
+          "price": 850,
+          "rawDescription": "GeneratedTip_Item_6653_Description",
+          "rawDisplayName": "Item_6653_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Stealth Ward",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 17,
+      "position": "",
+      "rawChampionName": "game_character_displayname_Morgana",
+      "respawnTimer": 0.0,
+      "runes": {
+        "keystone": {
+          "displayName": "Arcane Comet",
+          "id": 8229,
+          "rawDescription": "perk_tooltip_ArcaneComet",
+          "rawDisplayName": "perk_displayname_ArcaneComet"
+        },
+        "primaryRuneTree": {
+          "displayName": "Sorcery",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Domination",
+          "id": 8100,
+          "rawDescription": "perkstyle_tooltip_7200",
+          "rawDisplayName": "perkstyle_displayname_7200"
+        }
+      },
+      "scores": {
+        "assists": 8,
+        "creepScore": 140,
+        "deaths": 6,
+        "kills": 9,
+        "wardScore": 0.0
+      },
+      "skinID": 0,
+      "summonerName": "Morgana",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Ghost",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHaste_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHaste_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Heal",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHeal_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHeal_DisplayName"
+        }
+      },
+      "team": "ORDER"
+    },
+    {
+      "championName": "Zilean",
+      "isBot": true,
+      "isDead": true,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Lost Chapter",
+          "itemID": 3802,
+          "price": 200,
+          "rawDescription": "GeneratedTip_Item_3802_Description",
+          "rawDisplayName": "Item_3802_Name",
+          "slot": 0
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Shurelya's Battlesong",
+          "itemID": 2065,
+          "price": 350,
+          "rawDescription": "GeneratedTip_Item_2065_Description",
+          "rawDisplayName": "Item_2065_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Ionian Boots of Lucidity",
+          "itemID": 3158,
+          "price": 350,
+          "rawDescription": "GeneratedTip_Item_3158_Description",
+          "rawDisplayName": "Item_3158_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Winged Moonplate",
+          "itemID": 3066,
+          "price": 400,
+          "rawDescription": "GeneratedTip_Item_3066_Description",
+          "rawDisplayName": "Item_3066_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Tear of the Goddess",
+          "itemID": 3070,
+          "price": 400,
+          "rawDescription": "GeneratedTip_Item_3070_Description",
+          "rawDisplayName": "Item_3070_Name",
+          "slot": 4
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Imperial Mandate",
+          "itemID": 4005,
+          "price": 400,
+          "rawDescription": "GeneratedTip_Item_4005_Description",
+          "rawDisplayName": "Item_4005_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Stealth Ward",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 15,
+      "position": "",
+      "rawChampionName": "game_character_displayname_Zilean",
+      "respawnTimer": 17.58759307861328,
+      "runes": {
+        "keystone": {
+          "displayName": "Arcane Comet",
+          "id": 8229,
+          "rawDescription": "perk_tooltip_ArcaneComet",
+          "rawDisplayName": "perk_displayname_ArcaneComet"
+        },
+        "primaryRuneTree": {
+          "displayName": "Sorcery",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Domination",
+          "id": 8100,
+          "rawDescription": "perkstyle_tooltip_7200",
+          "rawDisplayName": "perkstyle_displayname_7200"
+        }
+      },
+      "scores": {
+        "assists": 6,
+        "creepScore": 100,
+        "deaths": 7,
+        "kills": 1,
+        "wardScore": 0.0
+      },
+      "skinID": 0,
+      "summonerName": "Zilean",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Ghost",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHaste_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHaste_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Heal",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHeal_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHeal_DisplayName"
+        }
+      },
+      "team": "CHAOS"
+    },
+    {
+      "championName": "Darius",
+      "isBot": true,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Trinity Force",
+          "itemID": 3078,
+          "price": 183,
+          "rawDescription": "GeneratedTip_Item_3078_Description",
+          "rawDisplayName": "Item_3078_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Tunneler",
+          "itemID": 2021,
+          "price": 400,
+          "rawDescription": "GeneratedTip_Item_2021_Description",
+          "rawDisplayName": "Item_2021_Name",
+          "slot": 1
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Titanic Hydra",
+          "itemID": 3748,
+          "price": 550,
+          "rawDescription": "GeneratedTip_Item_3748_Description",
+          "rawDisplayName": "Item_3748_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Glowing Mote",
+          "itemID": 2022,
+          "price": 250,
+          "rawDescription": "GeneratedTip_Item_2022_Description",
+          "rawDisplayName": "Item_2022_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Plated Steelcaps",
+          "itemID": 3047,
+          "price": 500,
+          "rawDescription": "GeneratedTip_Item_3047_Description",
+          "rawDisplayName": "Item_3047_Name",
+          "slot": 4
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Stealth Ward",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 16,
+      "position": "",
+      "rawChampionName": "game_character_displayname_Darius",
+      "respawnTimer": 0.0,
+      "runes": {
+        "keystone": {
+          "displayName": "Grasp of the Undying",
+          "id": 8437,
+          "rawDescription": "perk_tooltip_GraspOfTheUndying",
+          "rawDisplayName": "perk_displayname_GraspOfTheUndying"
+        },
+        "primaryRuneTree": {
+          "displayName": "Resolve",
+          "id": 8400,
+          "rawDescription": "perkstyle_tooltip_7204",
+          "rawDisplayName": "perkstyle_displayname_7204"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Sorcery",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
+        }
+      },
+      "scores": {
+        "assists": 6,
+        "creepScore": 120,
+        "deaths": 4,
+        "kills": 5,
+        "wardScore": 0.0
+      },
+      "skinID": 0,
+      "summonerName": "Darius",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Ghost",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHaste_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHaste_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Heal",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHeal_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHeal_DisplayName"
+        }
+      },
+      "team": "CHAOS"
+    },
+    {
+      "championName": "Warwick",
+      "isBot": true,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Thornmail",
+          "itemID": 3075,
+          "price": 1000,
+          "rawDescription": "GeneratedTip_Item_3075_Description",
+          "rawDisplayName": "Item_3075_Name",
+          "slot": 0
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Stridebreaker",
+          "itemID": 6631,
+          "price": 700,
+          "rawDescription": "GeneratedTip_Item_6631_Description",
+          "rawDisplayName": "Item_6631_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Boots of Swiftness",
+          "itemID": 3009,
+          "price": 600,
+          "rawDescription": "GeneratedTip_Item_3009_Description",
+          "rawDisplayName": "Item_3009_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Chain Vest",
+          "itemID": 1031,
+          "price": 500,
+          "rawDescription": "GeneratedTip_Item_1031_Description",
+          "rawDisplayName": "Item_1031_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Spectre's Cowl",
+          "itemID": 3211,
+          "price": 100,
+          "rawDescription": "GeneratedTip_Item_3211_Description",
+          "rawDisplayName": "Item_3211_Name",
+          "slot": 4
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Long Sword",
+          "itemID": 1036,
+          "price": 350,
+          "rawDescription": "GeneratedTip_Item_1036_Description",
+          "rawDisplayName": "Item_1036_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Stealth Ward",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 16,
+      "position": "",
+      "rawChampionName": "game_character_displayname_Warwick",
+      "respawnTimer": 0.0,
+      "runes": {
+        "keystone": {
+          "displayName": "Press the Attack",
+          "id": 8005,
+          "rawDescription": "perk_tooltip_PressTheAttack",
+          "rawDisplayName": "perk_displayname_PressTheAttack"
+        },
+        "primaryRuneTree": {
+          "displayName": "Precision",
+          "id": 8000,
+          "rawDescription": "perkstyle_tooltip_7201",
+          "rawDisplayName": "perkstyle_displayname_7201"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Sorcery",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
+        }
+      },
+      "scores": {
+        "assists": 13,
+        "creepScore": 120,
+        "deaths": 8,
+        "kills": 3,
+        "wardScore": 0.0
+      },
+      "skinID": 0,
+      "summonerName": "Warwick",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Ghost",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHaste_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHaste_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Heal",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHeal_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHeal_DisplayName"
+        }
+      },
+      "team": "CHAOS"
+    },
+    {
+      "championName": "Lucian",
+      "isBot": true,
+      "isDead": false,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Navori Quickblades",
+          "itemID": 6675,
+          "price": 300,
+          "rawDescription": "GeneratedTip_Item_6675_Description",
+          "rawDisplayName": "Item_6675_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Berserker's Greaves",
+          "itemID": 3006,
+          "price": 500,
+          "rawDescription": "GeneratedTip_Item_3006_Description",
+          "rawDisplayName": "Item_3006_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Kraken Slayer",
+          "itemID": 6672,
+          "price": 400,
+          "rawDescription": "GeneratedTip_Item_6672_Description",
+          "rawDisplayName": "Item_6672_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Last Whisper",
+          "itemID": 3035,
+          "price": 750,
+          "rawDescription": "GeneratedTip_Item_3035_Description",
+          "rawDisplayName": "Item_3035_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Sheen",
+          "itemID": 3057,
+          "price": 650,
+          "rawDescription": "GeneratedTip_Item_3057_Description",
+          "rawDisplayName": "Item_3057_Name",
+          "slot": 4
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Kircheis Shard",
+          "itemID": 2015,
+          "price": 350,
+          "rawDescription": "GeneratedTip_Item_2015_Description",
+          "rawDisplayName": "Item_2015_Name",
+          "slot": 5
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Stealth Ward",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 14,
+      "position": "",
+      "rawChampionName": "game_character_displayname_Lucian",
+      "respawnTimer": 0.0,
+      "runes": {
+        "keystone": {
+          "displayName": "Press the Attack",
+          "id": 8005,
+          "rawDescription": "perk_tooltip_PressTheAttack",
+          "rawDisplayName": "perk_displayname_PressTheAttack"
+        },
+        "primaryRuneTree": {
+          "displayName": "Precision",
+          "id": 8000,
+          "rawDescription": "perkstyle_tooltip_7201",
+          "rawDisplayName": "perkstyle_displayname_7201"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Sorcery",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
+        }
+      },
+      "scores": {
+        "assists": 6,
+        "creepScore": 120,
+        "deaths": 7,
+        "kills": 4,
+        "wardScore": 0.0
+      },
+      "skinID": 0,
+      "summonerName": "Lucian",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Ghost",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHaste_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHaste_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Heal",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHeal_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHeal_DisplayName"
+        }
+      },
+      "team": "CHAOS"
+    },
+    {
+      "championName": "Cassiopeia",
+      "isBot": true,
+      "isDead": true,
+      "items": [
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Seraph's Embrace",
+          "itemID": 3040,
+          "price": 2900,
+          "rawDescription": "GeneratedTip_Item_3040_Description",
+          "rawDisplayName": "Item_3040_Name",
+          "slot": 0
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Haunting Guise",
+          "itemID": 3147,
+          "price": 500,
+          "rawDescription": "GeneratedTip_Item_3147_Description",
+          "rawDisplayName": "Item_3147_Name",
+          "slot": 1
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Rylai's Crystal Scepter",
+          "itemID": 3116,
+          "price": 450,
+          "rawDescription": "GeneratedTip_Item_3116_Description",
+          "rawDisplayName": "Item_3116_Name",
+          "slot": 2
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Catalyst of Aeons",
+          "itemID": 3803,
+          "price": 550,
+          "rawDescription": "GeneratedTip_Item_3803_Description",
+          "rawDisplayName": "Item_3803_Name",
+          "slot": 3
+        },
+        {
+          "canUse": false,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Blasting Wand",
+          "itemID": 1026,
+          "price": 850,
+          "rawDescription": "GeneratedTip_Item_1026_Description",
+          "rawDisplayName": "Item_1026_Name",
+          "slot": 4
+        },
+        {
+          "canUse": true,
+          "consumable": false,
+          "count": 1,
+          "displayName": "Stealth Ward",
+          "itemID": 3340,
+          "price": 0,
+          "rawDescription": "GeneratedTip_Item_3340_Description",
+          "rawDisplayName": "Item_3340_Name",
+          "slot": 6
+        }
+      ],
+      "level": 16,
+      "position": "",
+      "rawChampionName": "game_character_displayname_Cassiopeia",
+      "respawnTimer": 40.90800094604492,
+      "runes": {
+        "keystone": {
+          "displayName": "Arcane Comet",
+          "id": 8229,
+          "rawDescription": "perk_tooltip_ArcaneComet",
+          "rawDisplayName": "perk_displayname_ArcaneComet"
+        },
+        "primaryRuneTree": {
+          "displayName": "Sorcery",
+          "id": 8200,
+          "rawDescription": "perkstyle_tooltip_7202",
+          "rawDisplayName": "perkstyle_displayname_7202"
+        },
+        "secondaryRuneTree": {
+          "displayName": "Domination",
+          "id": 8100,
+          "rawDescription": "perkstyle_tooltip_7200",
+          "rawDisplayName": "perkstyle_displayname_7200"
+        }
+      },
+      "scores": {
+        "assists": 9,
+        "creepScore": 90,
+        "deaths": 7,
+        "kills": 8,
+        "wardScore": 0.0
+      },
+      "skinID": 0,
+      "summonerName": "Cassiopeia",
+      "summonerSpells": {
+        "summonerSpellOne": {
+          "displayName": "Ghost",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHaste_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHaste_DisplayName"
+        },
+        "summonerSpellTwo": {
+          "displayName": "Heal",
+          "rawDescription": "GeneratedTip_SummonerSpell_SummonerHeal_Description",
+          "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHeal_DisplayName"
+        }
+      },
+      "team": "CHAOS"
+    }
+  ],
+  "events": {
+    "Events": [
+      {
+        "EventID": 0,
+        "EventName": "GameStart",
+        "EventTime": 0.029193099588155748
+      },
+      {
+        "EventID": 1,
+        "EventName": "MinionsSpawning",
+        "EventTime": 65.04115295410156
+      },
+      {
+        "Assisters": ["Ezreal"],
+        "EventID": 2,
+        "EventName": "ChampionKill",
+        "EventTime": 336.8597717285156,
+        "KillerName": "c4ldas",
+        "VictimName": "Zilean"
+      },
+      {
+        "EventID": 3,
+        "EventName": "FirstBlood",
+        "EventTime": 336.8597717285156,
+        "Recipient": "c4ldas"
+      },
+      {
+        "Assisters": ["Renekton"],
+        "EventID": 4,
+        "EventName": "ChampionKill",
+        "EventTime": 341.65216064453127,
+        "KillerName": "Morgana",
+        "VictimName": "Darius"
+      },
+      {
+        "Assisters": ["Darius"],
+        "EventID": 5,
+        "EventName": "ChampionKill",
+        "EventTime": 443.1008605957031,
+        "KillerName": "Cassiopeia",
+        "VictimName": "Renekton"
+      },
+      {
+        "Assisters": [],
+        "EventID": 6,
+        "EventName": "ChampionKill",
+        "EventTime": 660.8777465820313,
+        "KillerName": "c4ldas",
+        "VictimName": "Zilean"
+      },
+      {
+        "Assisters": [],
+        "DragonType": "Fire",
+        "EventID": 7,
+        "EventName": "DragonKill",
+        "EventTime": 748.4249877929688,
+        "KillerName": "c4ldas",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": ["Morgana"],
+        "EventID": 8,
+        "EventName": "ChampionKill",
+        "EventTime": 766.653564453125,
+        "KillerName": "c4ldas",
+        "VictimName": "Warwick"
+      },
+      {
+        "Assisters": [],
+        "EventID": 9,
+        "EventName": "HordeKill",
+        "EventTime": 794.1156005859375,
+        "KillerName": "c4ldas",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [],
+        "EventID": 10,
+        "EventName": "HordeKill",
+        "EventTime": 817.8604736328125,
+        "KillerName": "c4ldas",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [],
+        "EventID": 11,
+        "EventName": "HordeKill",
+        "EventTime": 825.7284545898438,
+        "KillerName": "c4ldas",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": ["Renekton"],
+        "EventID": 12,
+        "EventName": "TurretKilled",
+        "EventTime": 856.800048828125,
+        "KillerName": "c4ldas",
+        "TurretKilled": "Turret_T2_L_03_A"
+      },
+      {
+        "EventID": 13,
+        "EventName": "FirstBrick",
+        "EventTime": 856.800048828125,
+        "KillerName": "c4ldas"
+      },
+      {
+        "Assisters": ["Vladimir"],
+        "EventID": 14,
+        "EventName": "ChampionKill",
+        "EventTime": 917.3262939453125,
+        "KillerName": "Ezreal",
+        "VictimName": "Lucian"
+      },
+      {
+        "Assisters": [],
+        "EventID": 15,
+        "EventName": "ChampionKill",
+        "EventTime": 943.072509765625,
+        "KillerName": "Morgana",
+        "VictimName": "Warwick"
+      },
+      {
+        "Assisters": [],
+        "EventID": 16,
+        "EventName": "ChampionKill",
+        "EventTime": 967.76025390625,
+        "KillerName": "c4ldas",
+        "VictimName": "Cassiopeia"
+      },
+      {
+        "Assisters": ["Zilean"],
+        "EventID": 17,
+        "EventName": "TurretKilled",
+        "EventTime": 1012.1585693359375,
+        "KillerName": "Lucian",
+        "TurretKilled": "Turret_T1_R_03_A"
+      },
+      {
+        "Assisters": ["Warwick"],
+        "EventID": 18,
+        "EventName": "ChampionKill",
+        "EventTime": 1023.2352905273438,
+        "KillerName": "Cassiopeia",
+        "VictimName": "Morgana"
+      },
+      {
+        "Assisters": [],
+        "EventID": 19,
+        "EventName": "ChampionKill",
+        "EventTime": 1038.4296875,
+        "KillerName": "c4ldas",
+        "VictimName": "Darius"
+      },
+      {
+        "Assisters": ["Cassiopeia"],
+        "EventID": 20,
+        "EventName": "TurretKilled",
+        "EventTime": 1070.9427490234376,
+        "KillerName": "Warwick",
+        "TurretKilled": "Turret_T1_C_05_A"
+      },
+      {
+        "Assisters": [],
+        "EventID": 21,
+        "EventName": "ChampionKill",
+        "EventTime": 1082.5865478515626,
+        "KillerName": "Morgana",
+        "VictimName": "Warwick"
+      },
+      {
+        "Assisters": [],
+        "EventID": 22,
+        "EventName": "ChampionKill",
+        "EventTime": 1088.0372314453126,
+        "KillerName": "Cassiopeia",
+        "VictimName": "Morgana"
+      },
+      {
+        "Assisters": [],
+        "EventID": 23,
+        "EventName": "HeraldKill",
+        "EventTime": 1109.62353515625,
+        "KillerName": "c4ldas",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": [],
+        "EventID": 24,
+        "EventName": "ChampionKill",
+        "EventTime": 1127.66845703125,
+        "KillerName": "Darius",
+        "VictimName": "Renekton"
+      },
+      {
+        "Assisters": ["Vladimir"],
+        "EventID": 25,
+        "EventName": "ChampionKill",
+        "EventTime": 1166.1163330078126,
+        "KillerName": "c4ldas",
+        "VictimName": "Zilean"
+      },
+      {
+        "Assisters": ["Morgana"],
+        "EventID": 26,
+        "EventName": "ChampionKill",
+        "EventTime": 1171.9168701171876,
+        "KillerName": "Ezreal",
+        "VictimName": "Cassiopeia"
+      },
+      {
+        "Assisters": [],
+        "EventID": 27,
+        "EventName": "TurretKilled",
+        "EventTime": 1191.728759765625,
+        "KillerName": "Minion_T100L0S37N0229",
+        "TurretKilled": "Turret_T2_R_03_A"
+      },
+      {
+        "Assisters": [],
+        "DragonType": "Hextech",
+        "EventID": 28,
+        "EventName": "DragonKill",
+        "EventTime": 1212.981689453125,
+        "KillerName": "c4ldas",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": ["Ezreal", "Morgana"],
+        "EventID": 29,
+        "EventName": "ChampionKill",
+        "EventTime": 1232.6041259765626,
+        "KillerName": "c4ldas",
+        "VictimName": "Warwick"
+      },
+      {
+        "Assisters": ["c4ldas", "Ezreal"],
+        "EventID": 30,
+        "EventName": "ChampionKill",
+        "EventTime": 1239.519287109375,
+        "KillerName": "Morgana",
+        "VictimName": "Cassiopeia"
+      },
+      {
+        "Assisters": [],
+        "EventID": 31,
+        "EventName": "TurretKilled",
+        "EventTime": 1252.4210205078126,
+        "KillerName": "Minion_T100L1S39N0248",
+        "TurretKilled": "Turret_T2_C_05_A"
+      },
+      {
+        "Assisters": ["c4ldas", "Morgana"],
+        "EventID": 32,
+        "EventName": "TurretKilled",
+        "EventTime": 1277.6005859375,
+        "KillerName": "Renekton",
+        "TurretKilled": "Turret_T2_C_04_A"
+      },
+      {
+        "Assisters": ["Warwick", "Cassiopeia"],
+        "EventID": 33,
+        "EventName": "ChampionKill",
+        "EventTime": 1327.5838623046876,
+        "KillerName": "Lucian",
+        "VictimName": "Ezreal"
+      },
+      {
+        "Assisters": [],
+        "EventID": 34,
+        "EventName": "TurretKilled",
+        "EventTime": 1343.3936767578126,
+        "KillerName": "Darius",
+        "TurretKilled": "Turret_T1_L_03_A"
+      },
+      {
+        "Assisters": [],
+        "EventID": 35,
+        "EventName": "ChampionKill",
+        "EventTime": 1356.154296875,
+        "KillerName": "Morgana",
+        "VictimName": "Lucian"
+      },
+      {
+        "Assisters": [],
+        "EventID": 36,
+        "EventName": "ChampionKill",
+        "EventTime": 1375.00732421875,
+        "KillerName": "c4ldas",
+        "VictimName": "Warwick"
+      },
+      {
+        "Assisters": ["Lucian", "Cassiopeia"],
+        "EventID": 37,
+        "EventName": "ChampionKill",
+        "EventTime": 1433.1339111328126,
+        "KillerName": "Darius",
+        "VictimName": "Ezreal"
+      },
+      {
+        "Assisters": ["Darius", "Lucian", "Cassiopeia"],
+        "EventID": 38,
+        "EventName": "ChampionKill",
+        "EventTime": 1438.04296875,
+        "KillerName": "Warwick",
+        "VictimName": "Renekton"
+      },
+      {
+        "Assisters": [],
+        "EventID": 39,
+        "EventName": "ChampionKill",
+        "EventTime": 1455.9625244140626,
+        "KillerName": "c4ldas",
+        "VictimName": "Lucian"
+      },
+      {
+        "Assisters": [],
+        "EventID": 40,
+        "EventName": "TurretKilled",
+        "EventTime": 1456.2205810546876,
+        "KillerName": "Minion_T200L1S46N0291",
+        "TurretKilled": "Turret_T1_C_04_A"
+      },
+      {
+        "Assisters": [],
+        "EventID": 41,
+        "EventName": "ChampionKill",
+        "EventTime": 1490.8514404296876,
+        "KillerName": "c4ldas",
+        "VictimName": "Zilean"
+      },
+      {
+        "Assisters": [],
+        "EventID": 42,
+        "EventName": "ChampionKill",
+        "EventTime": 1495.302001953125,
+        "KillerName": "c4ldas",
+        "VictimName": "Cassiopeia"
+      },
+      {
+        "EventID": 43,
+        "EventName": "Multikill",
+        "EventTime": 1495.302001953125,
+        "KillStreak": 2,
+        "KillerName": "c4ldas"
+      },
+      {
+        "Assisters": [],
+        "EventID": 44,
+        "EventName": "TurretKilled",
+        "EventTime": 1496.78515625,
+        "KillerName": "Minion_T100L2S45N0285",
+        "TurretKilled": "Turret_T2_L_02_A"
+      },
+      {
+        "Assisters": ["Morgana"],
+        "EventID": 45,
+        "EventName": "ChampionKill",
+        "EventTime": 1525.4315185546876,
+        "KillerName": "Ezreal",
+        "VictimName": "Lucian"
+      },
+      {
+        "Assisters": ["Zilean", "Warwick"],
+        "EventID": 46,
+        "EventName": "ChampionKill",
+        "EventTime": 1556.5699462890626,
+        "KillerName": "Cassiopeia",
+        "VictimName": "Morgana"
+      },
+      {
+        "Assisters": ["Zilean", "Warwick"],
+        "EventID": 47,
+        "EventName": "ChampionKill",
+        "EventTime": 1561.662353515625,
+        "KillerName": "Cassiopeia",
+        "VictimName": "Renekton"
+      },
+      {
+        "EventID": 48,
+        "EventName": "Multikill",
+        "EventTime": 1561.662353515625,
+        "KillStreak": 2,
+        "KillerName": "Cassiopeia"
+      },
+      {
+        "Assisters": ["Warwick"],
+        "EventID": 49,
+        "EventName": "ChampionKill",
+        "EventTime": 1614.728759765625,
+        "KillerName": "Cassiopeia",
+        "VictimName": "Vladimir"
+      },
+      {
+        "Assisters": ["Warwick", "Lucian", "Cassiopeia"],
+        "EventID": 50,
+        "EventName": "ChampionKill",
+        "EventTime": 1628.6727294921876,
+        "KillerName": "Darius",
+        "VictimName": "Morgana"
+      },
+      {
+        "Assisters": ["Darius"],
+        "EventID": 51,
+        "EventName": "TurretKilled",
+        "EventTime": 1636.891357421875,
+        "KillerName": "Minion_T200L1S52N0331",
+        "TurretKilled": "Turret_T1_C_03_A"
+      },
+      {
+        "Assisters": [],
+        "DragonType": "Air",
+        "EventID": 52,
+        "EventName": "DragonKill",
+        "EventTime": 1642.0914306640626,
+        "KillerName": "c4ldas",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": ["Darius"],
+        "EventID": 53,
+        "EventName": "InhibKilled",
+        "EventTime": 1649.4090576171876,
+        "InhibKilled": "Barracks_T1_C1",
+        "KillerName": "Lucian"
+      },
+      {
+        "Assisters": [],
+        "EventID": 54,
+        "EventName": "ChampionKill",
+        "EventTime": 1668.095458984375,
+        "KillerName": "c4ldas",
+        "VictimName": "Cassiopeia"
+      },
+      {
+        "Assisters": ["Vladimir", "Renekton", "Ezreal"],
+        "EventID": 55,
+        "EventName": "ChampionKill",
+        "EventTime": 1687.3907470703126,
+        "KillerName": "Morgana",
+        "VictimName": "Warwick"
+      },
+      {
+        "Assisters": ["Ezreal"],
+        "EventID": 56,
+        "EventName": "ChampionKill",
+        "EventTime": 1689.56591796875,
+        "KillerName": "c4ldas",
+        "VictimName": "Darius"
+      },
+      {
+        "Assisters": [],
+        "EventID": 57,
+        "EventName": "ChampionKill",
+        "EventTime": 1691.67431640625,
+        "KillerName": "c4ldas",
+        "VictimName": "Lucian"
+      },
+      {
+        "EventID": 58,
+        "EventName": "Multikill",
+        "EventTime": 1691.67431640625,
+        "KillStreak": 2,
+        "KillerName": "c4ldas"
+      },
+      {
+        "Assisters": [],
+        "EventID": 59,
+        "EventName": "ChampionKill",
+        "EventTime": 1724.0301513671876,
+        "KillerName": "c4ldas",
+        "VictimName": "Zilean"
+      },
+      {
+        "Assisters": ["Vladimir", "Ezreal", "Morgana"],
+        "EventID": 60,
+        "EventName": "TurretKilled",
+        "EventTime": 1741.7576904296876,
+        "KillerName": "Renekton",
+        "TurretKilled": "Turret_T2_C_03_A"
+      },
+      {
+        "Assisters": ["c4ldas", "Vladimir"],
+        "EventID": 61,
+        "EventName": "ChampionKill",
+        "EventTime": 1743.1409912109376,
+        "KillerName": "Morgana",
+        "VictimName": "Cassiopeia"
+      },
+      {
+        "Assisters": ["Lucian", "Cassiopeia"],
+        "EventID": 62,
+        "EventName": "ChampionKill",
+        "EventTime": 1743.6522216796876,
+        "KillerName": "Warwick",
+        "VictimName": "c4ldas"
+      },
+      {
+        "Assisters": ["c4ldas", "Vladimir", "Renekton", "Ezreal"],
+        "EventID": 63,
+        "EventName": "ChampionKill",
+        "EventTime": 1749.3045654296876,
+        "KillerName": "Morgana",
+        "VictimName": "Warwick"
+      },
+      {
+        "EventID": 64,
+        "EventName": "Multikill",
+        "EventTime": 1749.3045654296876,
+        "KillStreak": 2,
+        "KillerName": "Morgana"
+      },
+      {
+        "Assisters": ["Lucian"],
+        "EventID": 65,
+        "EventName": "ChampionKill",
+        "EventTime": 1753.14501953125,
+        "KillerName": "Darius",
+        "VictimName": "Renekton"
+      },
+      {
+        "Assisters": ["Warwick", "Cassiopeia"],
+        "EventID": 66,
+        "EventName": "ChampionKill",
+        "EventTime": 1757.70166015625,
+        "KillerName": "Darius",
+        "VictimName": "Morgana"
+      },
+      {
+        "EventID": 67,
+        "EventName": "Multikill",
+        "EventTime": 1757.70166015625,
+        "KillStreak": 2,
+        "KillerName": "Darius"
+      },
+      {
+        "Assisters": ["c4ldas", "Vladimir", "Renekton", "Morgana"],
+        "EventID": 68,
+        "EventName": "InhibKilled",
+        "EventTime": 1759.168701171875,
+        "InhibKilled": "Barracks_T2_C1",
+        "KillerName": "Minion_T100L1S56N0361"
+      },
+      {
+        "Assisters": [],
+        "EventID": 69,
+        "EventName": "ChampionKill",
+        "EventTime": 1760.9520263671876,
+        "KillerName": "Warwick",
+        "VictimName": "Ezreal"
+      },
+      {
+        "Assisters": [],
+        "EventID": 70,
+        "EventName": "TurretKilled",
+        "EventTime": 1820.9287109375,
+        "KillerName": "Minion_T200L0S58N0374",
+        "TurretKilled": "Turret_T1_R_02_A"
+      },
+      {
+        "Assisters": ["Vladimir", "Ezreal", "Morgana"],
+        "EventID": 71,
+        "EventName": "ChampionKill",
+        "EventTime": 1826.6298828125,
+        "KillerName": "Renekton",
+        "VictimName": "Lucian"
+      },
+      {
+        "Assisters": ["Darius", "Warwick", "Lucian", "Cassiopeia"],
+        "EventID": 72,
+        "EventName": "ChampionKill",
+        "EventTime": 1830.063720703125,
+        "KillerName": "Zilean",
+        "VictimName": "Renekton"
+      },
+      {
+        "Assisters": ["Zilean", "Darius", "Warwick"],
+        "EventID": 73,
+        "EventName": "ChampionKill",
+        "EventTime": 1833.547607421875,
+        "KillerName": "Cassiopeia",
+        "VictimName": "Ezreal"
+      },
+      {
+        "Assisters": ["Zilean", "Darius", "Warwick"],
+        "EventID": 74,
+        "EventName": "ChampionKill",
+        "EventTime": 1841.2655029296876,
+        "KillerName": "Cassiopeia",
+        "VictimName": "Vladimir"
+      },
+      {
+        "EventID": 75,
+        "EventName": "Multikill",
+        "EventTime": 1841.2655029296876,
+        "KillStreak": 2,
+        "KillerName": "Cassiopeia"
+      },
+      {
+        "Assisters": [],
+        "EventID": 76,
+        "EventName": "TurretKilled",
+        "EventTime": 1874.3377685546876,
+        "KillerName": "c4ldas",
+        "TurretKilled": "Turret_T2_R_02_A"
+      },
+      {
+        "Assisters": [],
+        "EventID": 77,
+        "EventName": "ChampionKill",
+        "EventTime": 1874.870849609375,
+        "KillerName": "Morgana",
+        "VictimName": "Zilean"
+      },
+      {
+        "Assisters": [],
+        "EventID": 78,
+        "EventName": "TurretKilled",
+        "EventTime": 1893.3653564453126,
+        "KillerName": "c4ldas",
+        "TurretKilled": "Turret_T2_R_01_A"
+      },
+      {
+        "Assisters": ["Renekton", "Morgana"],
+        "EventID": 79,
+        "EventName": "ChampionKill",
+        "EventTime": 1896.09912109375,
+        "KillerName": "Ezreal",
+        "VictimName": "Darius"
+      },
+      {
+        "Assisters": ["Ezreal", "Morgana"],
+        "EventID": 80,
+        "EventName": "ChampionKill",
+        "EventTime": 1899.0745849609376,
+        "KillerName": "Renekton",
+        "VictimName": "Lucian"
+      },
+      {
+        "Assisters": [],
+        "EventID": 81,
+        "EventName": "InhibKilled",
+        "EventTime": 1901.2000732421876,
+        "InhibKilled": "Barracks_T2_R1",
+        "KillerName": "c4ldas"
+      },
+      {
+        "Assisters": ["Ezreal", "Morgana"],
+        "EventID": 82,
+        "EventName": "ChampionKill",
+        "EventTime": 1903.95068359375,
+        "KillerName": "Renekton",
+        "VictimName": "Warwick"
+      },
+      {
+        "EventID": 83,
+        "EventName": "Multikill",
+        "EventTime": 1903.95068359375,
+        "KillStreak": 2,
+        "KillerName": "Renekton"
+      },
+      {
+        "EventID": 84,
+        "EventName": "InhibRespawned",
+        "EventTime": 1949.4517822265626,
+        "InhibRespawned": "Barracks_T1_C1"
+      },
+      {
+        "Assisters": [],
+        "EventID": 85,
+        "EventName": "TurretKilled",
+        "EventTime": 1962.254150390625,
+        "KillerName": "Minion_T100L2S62N0401",
+        "TurretKilled": "Turret_T2_L_01_A"
+      },
+      {
+        "Assisters": ["Zilean", "Warwick", "Cassiopeia"],
+        "EventID": 86,
+        "EventName": "ChampionKill",
+        "EventTime": 1963.85107421875,
+        "KillerName": "Lucian",
+        "VictimName": "Morgana"
+      },
+      {
+        "Assisters": [],
+        "DragonType": "Air",
+        "EventID": 87,
+        "EventName": "DragonKill",
+        "EventTime": 1968.151611328125,
+        "KillerName": "c4ldas",
+        "Stolen": "False"
+      },
+      {
+        "Assisters": ["Warwick", "Cassiopeia"],
+        "EventID": 88,
+        "EventName": "ChampionKill",
+        "EventTime": 1969.187255859375,
+        "KillerName": "Lucian",
+        "VictimName": "Ezreal"
+      },
+      {
+        "EventID": 89,
+        "EventName": "Multikill",
+        "EventTime": 1969.187255859375,
+        "KillStreak": 2,
+        "KillerName": "Lucian"
+      },
+      {
+        "Assisters": ["Zilean", "Darius", "Warwick"],
+        "EventID": 90,
+        "EventName": "ChampionKill",
+        "EventTime": 2000.523193359375,
+        "KillerName": "Lucian",
+        "VictimName": "Renekton"
+      },
+      {
+        "Assisters": [],
+        "EventID": 91,
+        "EventName": "InhibKilled",
+        "EventTime": 2017.609130859375,
+        "InhibKilled": "Barracks_T2_L1",
+        "KillerName": "Minion_T100L2S64N0415"
+      },
+      {
+        "Assisters": ["c4ldas"],
+        "EventID": 92,
+        "EventName": "ChampionKill",
+        "EventTime": 2029.8695068359376,
+        "KillerName": "Vladimir",
+        "VictimName": "Zilean"
+      },
+      {
+        "Assisters": [],
+        "EventID": 93,
+        "EventName": "TurretKilled",
+        "EventTime": 2041.6617431640626,
+        "KillerName": "Minion_T100L1S65N0425",
+        "TurretKilled": "Turret_T2_C_01_A"
+      },
+      {
+        "Assisters": [],
+        "EventID": 94,
+        "EventName": "TurretKilled",
+        "EventTime": 2047.0313720703126,
+        "KillerName": "Minion_T100L1S64N0417",
+        "TurretKilled": "Turret_T2_C_02_A"
+      },
+      {
+        "Assisters": [],
+        "EventID": 95,
+        "EventName": "ChampionKill",
+        "EventTime": 2050.217041015625,
+        "KillerName": "c4ldas",
+        "VictimName": "Cassiopeia"
+      },
+      {
+        "EventID": 96,
+        "EventName": "InhibRespawned",
+        "EventTime": 2059.224853515625,
+        "InhibRespawned": "Barracks_T2_C1"
+      },
+      {
+        "EventID": 97,
+        "EventName": "GameEnd",
+        "EventTime": 2062.785888671875,
+        "Result": "Win"
+      }
+    ]
+  },
+  "gameData": {
+    "gameMode": "CLASSIC",
+    "gameTime": 2064.0537109375,
+    "mapName": "Map11",
+    "mapNumber": 11,
+    "mapTerrain": "Cloud"
+  }
+}
